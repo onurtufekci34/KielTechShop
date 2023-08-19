@@ -32,7 +32,7 @@ KielTechShop is an online platform that offers a wide range of computer parts an
 
 ## Screenshots
 
-![Homepage](/screenshots/screenshot1.png)
+![Homepage](screenshots/screenshot1.png)
 *Screenshot of the KielTechShop homepage.*
 
 ![Dropdown Page](screenshots/screenshot2.png)
