@@ -36,28 +36,28 @@ KielTechShop is an online platform that offers a wide range of computer parts an
 *Screenshot of the KielTechShop homepage.*
 
 ![Dropdown Page](screenshots/screenshot2.png)
-*Screenshot of a product page with detailed information.*
+*Screenshot of a dropdown page with detailed information.*
 
 ![Product Page](screenshots/screenshot3.png)
 *Screenshot of a product page with detailed information.*
 
 ![Search Page](screenshots/screenshot4.png)
-*Screenshot of a product page with detailed information.*
+*Screenshot of a search page with detailed information.*
 
 ![Login Page](screenshots/screenshot5.png)
-*Screenshot of a product page with detailed information.*
+*Screenshot of a login page with detailed information.*
 
 ![Cart](screenshots/screenshot6.png)
 *Screenshot of the shopping cart displaying selected items.*
 
 ![Order Page](screenshots/screenshot7.png)
-*Screenshot of a product page with detailed information.*
+*Screenshot of a order page with detailed information.*
 
 ![Order Database Page](screenshots/screenshot8.png)
-*Screenshot of a product page with detailed information.*
+*Screenshot of an order database  with detailed information.*
 
 ![Product Database Page](screenshots/screenshot9.png)
-*Screenshot of a product page with detailed information.*
+*Screenshot of a products database with detailed information.*
 
 ## Contributing
 
