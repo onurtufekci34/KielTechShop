@@ -1,0 +1,163 @@
+* {
+  font-family: "Trirong", serif;
+}
+body {
+  padding-top: 4rem;
+  /* overflow-y: hidden; */
+}
+
+.nav-item {
+  margin: 1rem;
+  font-size: 1.3rem;
+  font-weight: bold;
+  padding: 0;
+}
+#nav {
+  padding: 0;
+}
+#ateo {
+  font-weight: bold;
+}
+
+#Warenkorb:hover,
+#Konto:hover,
+#home:hover {
+  color: aqua;
+}
+
+.search {
+  margin-top: 2rem;
+  margin-bottom: -3.5rem;
+  padding: 0 2rem;
+}
+#card_home {
+  border: none;
+}
+
+
+
+.card-preis {
+  color: red;
+}
+
+#logo {
+  width: 5rem;
+
+  border-radius: 1.5rem;
+}
+#logo:hover {
+  border: 1px solid aqua;
+}
+
+.carousel-container {
+  height: 300px; 
+  overflow: hidden;
+}
+
+/* Footer CSS */
+.footer {
+  background-color: #c3cbd6;
+  padding: 10px 0;
+  text-align: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 3rem;
+  width: 100%;
+  overflow: hidden;
+}
+
+
+.carousel-item img {
+  width: 15%;
+  height: auto;
+}
+
+#carouselExample {
+  width: 100%;
+}
+.angebote {
+  color: red;
+
+  text-align: right;
+  font-size: 3rem;
+}
+
+.dropdown-menu {
+  display: none;
+}
+
+.dropdown-center:hover .dropdown-menu {
+  display: block;
+}
+
+.container-fluid {
+  background-color: #c3cbd6;
+}
+#container_dropdown {
+  margin: 4rem 0 0 0;
+}
+
+.drpdwnbtn,
+.dropdown-menu {
+  width: 100%;
+}
+#drpdwnbtn {
+  font-size: 1.5rem;
+  font-weight: bold;
+  border-radius: 0;
+}
+.dropdown-item {
+  font-size: 1.5rem;
+}
+
+.dropdown-center {
+  border: none;
+  width: 100%;
+}
+
+.word{
+  word-spacing: 2px;
+}
+
+
+
+@media (max-width: 767px) {
+  /* For smaller screens, reduce the font size of nav-items */
+  .nav-item {
+    font-size: 16px;
+    margin: 5px;
+  }
+
+  /* Reduce the logo size for smaller screens */
+  #logo {
+    width: 3em;
+  }
+
+  /* Adjust the carousel image size for smaller screens */
+  .carousel-item img {
+    width: 100%;
+    height: auto;
+  }
+
+  /* Center the footer icons for smaller screens */
+  .footer div {
+    text-align: center;
+  }
+
+  /* Reduce the font size of the Angebote text on the carousel for smaller screens */
+  .angebote {
+    font-size: 2rem;
+  }
+
+  /* Show the dropdown menu on hover for smaller screens */
+  .dropdown-menu {
+    display: block;
+  }
+
+  /* Adjust the margin and font size of dropdown-items for smaller screens */
+  .dropdown-item {
+    margin: 5px;
+    font-size: 16px;
+  }
+}
